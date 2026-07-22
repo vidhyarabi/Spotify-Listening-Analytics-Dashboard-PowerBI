@@ -89,7 +89,7 @@ This dashboard transforms Spotify listening history into meaningful business ins
 
 ## 🎧 Listening Patterns
 
-![Listening Patterns](Listening Patterns.png)
+![Listening Patterns](Listening_Patterns.png)
 
 ---
 
